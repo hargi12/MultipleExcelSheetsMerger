@@ -1,3 +1,4 @@
+# Author: Gichuhi Haron | gichuhiaaron [at] gmail.com
 # This scripts renames excel worksheets according to your set headers
 # for later merging of individual files
 # import pandas and numpy
