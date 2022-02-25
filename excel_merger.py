@@ -1,3 +1,4 @@
+# Author: Gichuhi Haron | gichuhiaaron [at] gmail.com
 # Read excel files
 import pandas as pd
 import numpy as np
