@@ -1,5 +1,5 @@
 # This script separates multiple excel sheets in a single files
-# author: Haron Gichuhi #gichuhiaaron@gmail.com # 2 june 2020
+# author: Haron Gichuhi # gichuhiaaron [at] gmail.com # 2 june 2020
 import os, collections, csv
 import pandas as pd
 import numpy as np
