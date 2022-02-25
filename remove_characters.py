@@ -1,3 +1,5 @@
+# Author: Gichuhi Haron | gichuhiaaron [at] gmail.com
+# use this script to clean your data. You can adapt it to any data column
 import pandas as pd
 import numpy as np
 
